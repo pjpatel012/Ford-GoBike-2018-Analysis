@@ -17,7 +17,9 @@ As part of the analysis, the following jupyter notebook / python packages are us
 
 ## Additional Data
 
-Please note that the data used in this project is comprised of 12 months of data that was concanenated into a main dataframe. This dataframe consists of over 1.8 million rows. Some cells in this notebook may require longer processing times than normal.
+Please note that the data used in this project is comprised of 12 months of data that was concanenated into a main dataframe. This dataframe consists of over 1.8 million rows. Some cells in this notebook may require longer processing times than normal. **Since the datasets were too large to add, please follow the link below to download the .csv files used in this analysis.**
+
+https://s3.amazonaws.com/fordgobike-data/index.html
 
 ## Authors
 
