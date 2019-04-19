@@ -3,7 +3,7 @@ Analyze, explore, and present Ford GoBike's 2018 system data.
 
 ## Assignment Background
 
-As part of Udacity's Data Analytics Nanodegree, the goal of this project is to analyze the Ford GoBike's 2018 system data. This project focus' primarily on the exploratory and explanatory data analysis steps. 2 notebooks are included in this project (1 exploratory notebook and 1 final analysis notebook named 'Ford GoBike Final'). A README document, 2018 raw dataset (12 files from January-December), exploratory analysis report, and a slide deck are also included. This notebook can be used to recreate an analysis for any given month(s) of Ford GoBike's system data.
+As part of Udacity's Data Analytics Nanodegree, the goal of this project is to analyze the Ford GoBike's 2018 system data. This project focus' primarily on the exploratory and explanatory data analysis and visualization steps. 2 notebooks are included in this project (1 exploratory notebook and 1 final analysis notebook named 'Ford GoBike Final'). A README document, 2018 raw dataset (12 files from January-December), exploratory analysis report, and a slide deck are also included. This notebook can be used to recreate an analysis for any given month(s) of Ford GoBike's system data.
 
 ## Prerequisites 
 
