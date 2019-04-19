@@ -15,6 +15,10 @@ https://github.com/hakimel/reveal.js#installation
 
 As part of the analysis, the following jupyter notebook / python packages are used and are required to run the code: numpy, pandas, geopy, matplotlib, and seaborn.
 
+## Additional Data
+
+Please note that the data used in this project is comprised of 12 months of data that was concanenated into a main dataframe. This dataframe consists of over 1.8 million rows. Some cells in this notebook may require longer processing times than normal.
+
 ## Authors
 
 * **Paras Patel**
